@@ -84,6 +84,29 @@ Capitulo 6:
 
 Capitulo 5:
 
+2) Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
+ 
+R1, R2, R3, R4 y R9 están en serie (pin 5 a 6)
+R7, R13, R14 y R16 está en serie (pin 1 a 8)
+R6, R8 y R12 está en serie (pin 2 a 3)
+R5, R10, R11 y R15 está en serie (pin 4 a 7) 
+4) Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+R2-3=R12+R8+R6= 10 Ω + 18 Ω + 22Ω = 50 Ω
+6) ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
+I= V/RT = 12V/120Ω = 100mA
+8) Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
+ 
+ 
+10) Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
+RT= 1 Ω + 2.2 Ω + 5.6 Ω + 12 Ω + 22 Ω = 42.8 Ω
+12) Calcule la RT en cada circuito de la figura 5-71
+ 
+a)	RT= 1K Ω + 5.6K Ω + 2.2K Ω = 8.8K Ω
+b)	RT= 4.7 Ω + 10 Ω + 12 Ω + 1 Ω= 27.7 Ω
+c)	RT= 1M Ω + 650K Ω + 5.6M Ω + 680 k Ω + 10m Ω= 17.84 MΩ
+14) Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+RT= 6(56Ω) + 8(100 Ω) + 2(22 Ω) = 336 Ω + 800 Ω + 44 Ω =1180 Ω
+
 
 # VIDEO:
 
