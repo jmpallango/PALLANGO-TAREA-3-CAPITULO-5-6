@@ -391,6 +391,399 @@ Para localizar un corto, se mide el voltaje a través de cada resistor hasta que
 
 Se debe calcular el voltaje para cada resistencia y en donde exista un voltaje mayor es donde se encontrará el corto.
 
+Capitulo 6:
+
+2.Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![image](https://user-images.githubusercontent.com/105695077/172434450-0839281c-59de-4b69-bbb7-e64d2d0a2b87.png)
+
+Los resistores de este circuito, si están en paralelo ya que estos resistores están conectados por diferentes caminos, es decir que la corriente viaja del extremo de la fuente de voltaje a través de muchas ramas del circuito.
+
+4.¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+
+RT = R/n
+
+RT x n= R
+
+R= (550Ω) x (4)
+
+R = 2200 Ω
+
+6.¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+![image](https://user-images.githubusercontent.com/105695077/172434574-42cf4d45-cf0f-49e4-9bfe-4cff803185f9.png)
+
+Posición A:
+RT=(R1 x R2)/(R1 + R2)=(R1 x R4)/(R1 + R4)
+
+RT=(1KΩ x 2.7kΩ)/(1KΩ + 2.7kΩ)= (2.7kΩ^2)/3.7kΩ
+
+RT=0.73 kΩ
+
+Posición B:
+RT=(R1 x R3)/(R1 + R3)
+
+RT=(1KΩ x 2.2kΩ)/(1KΩ + 2.2kΩ)=(2.2kΩ^2)/3.8kΩ
+
+RT=0.57 kΩ
+
+Posición C:
+
+RT=(R1 x R2)/(R1 + R2)
+
+RT=(1KΩ x 1.8kΩ)/(1KΩ + 1.8kΩ) = (1.8kΩ^2)/2.8kΩ
+
+RT=0.64 kΩ
+
+8.¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/105695077/172434656-9776f4f2-453c-457c-af15-4a166ddc3321.png)
+
+Mediante el uso del divisor de voltaje
+
+Posición A:
+
+IR1 = Vs/R1 = 15V/1kΩ
+
+IR1 = 15mA
+
+IR4 = 15V/R4 = 5.56 mA
+
+IT = IR1 + IR4 = 20.56 mA
+
+Posición B:
+IR1 = Vs/R1 = 15V/1kΩ
+
+IR1 = 15mA
+
+IR3 = 15V/R3 = 6.81 mA
+
+IT = IR1 + IR3 = 21.81 mA
+
+Posición C:
+IR1 = Vs/R1 = 15V/1kΩ
+
+IR1 = 15mA
+
+IR2 = 15V/R2 = 8.33 mA
+
+IT = IR1 + IR2 = 23.33 mA
+
+10.Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+IT = I1 + I2 + I3+ I4 + I5
+
+I5 = IT - I1 - I2 - I3 - I4
+
+I5 = 500 - 50 - 150 - 25 - 100
+
+I5 = 175 mA
+
+12.En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+IT = 1.25 A + 0.833(2) A + 10 A = 12.92 A
+
+14.Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
+
+1/RT = 1/1.0 MΩ + 1/2.2 MΩ + 1/5.6 MΩ + 1/12 MΩ + 1/22 MΩ
+
+RT = 0.57 MΩ
+
+16.Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/105695077/172434831-49362661-e0cc-431b-9721-c5f37fc07731.png)
+
+(a) 1/RT = 1/560 Ω + 1/220 Ω , RT = 157.95 Ω
+
+(b) 1/RT = 1/27 kΩ + 1/56 kΩ , RT = 18.22 kΩ
+
+(c) 1/RT = 1/1.5 KΩ + 1/2.2 KΩ , RT = 0.9 KΩ
+
+18.Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+Caso especial de n resistores de igual valor en paralelo RT=R/n
+
+Grupo 1 : 5 resistores de 470Ω
+RT=(470 Ω)/5 RT= 94 Ω
+
+Grupo 2 : 10 resistores de 100 Ω
+RT=(100 Ω)/10 RT=10 Ω
+
+Grupo 3 : 2 dos resistores de 100 Ω
+RT=(100 Ω)/2 RT=50 Ω
+
+20.Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+
+![image](https://user-images.githubusercontent.com/105695077/172434935-3f50f2e3-a5bb-4fd2-8442-05496b94ec79.png)
+
+RT = 1/(1/R1 + 1/R2)
+
+389.2 Ω = 1/(1/680 Ω + 1/R2)
+
+R2 = 910.09 Ω
+
+22.¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/105695077/172435111-6933f1c4-f13c-476b-8f2f-aaf28cbae5ad.png)
+
+a) R1=33 Ω = 0.33 k Ω
+
+R2=33 Ω= 0.33 k Ω
+
+R3=27 Ω= 0.27 k Ω
+
+IT = I1 + I2 + I3
+
+IT = 10V/(0.33 k Ω) + 10V/(0.33 k Ω) + 10V/(0.27 k Ω)
+
+IT= 303.03 + 303.03 + 370.37
+
+IT= 976.43 mA
+
+b)
+
+R3=560 Ω=0.56 kΩ
+
+IT=I1+I2+I3
+
+IT=25V/(1.0 k Ω)+25V/(4.7 k Ω)+25V/(0.56k Ω)
+
+IT= 25+5.32+44.64
+
+IT=74.96 mA
+
+24.Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+VS = 5 V
+
+IT = 1.11 mA
+
+IT = VS/RT RT= VS/IT
+
+RT = 5V/(1.11 mA) RT=4.50 kΩ
+
+RT = R/n RT = 4.50/4 (4 x 4.50)=R R = 18 kΩ
+
+El valor de cada resistor es 18 kΩ
+
+26.Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![image](https://user-images.githubusercontent.com/105695077/172435379-e176a7f2-dc89-4aba-b50f-fa8bb51e79be.png)
+
+a) 
+
+I2 = ?
+
+R1= 10/100 = 0.1 kΩ
+
+IT = I1 + I2 R2= 10/50 = 0.2kΩ
+
+150 - 100 = I2
+
+I2 = 50 mA
+
+b)
+
+R1 = 100V/0.26 R1 = 384.61 Ω
+
+R2= 680 Ω
+
+R3= 1.0kΩ = 1000Ω
+
+IT = I1 + I2 + I3
+
+IT = I1 + 100V/(680 Ω) + 100V/(1000 Ω)
+
+0.5 = I1 + 0.14 + 0.1
+
+I1=0.26 mA
+
+I2=0.14 mA
+
+I3=0.1mA
+
+28.Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/105695077/172435603-f552850f-b2cf-4460-b86a-67e67afab157.png)
+
+VS = 24
+
+Circuito c
+
+R4 = 1.0 M Ω = 1000kΩ
+
+R5 = 820 k Ω
+
+R6 = 2.2 M Ω = 2200kΩ
+
+IT = IR4 + IR5 + IR6
+
+IT = 24V/1000kΩ + 24V/(820 k Ω) + 24V/2200kΩ
+
+IT = 0.024+0.011+0.029
+
+IT = 0.064 Ma
+
+30.Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78. imagen
+
+![image](https://user-images.githubusercontent.com/105695077/172435868-3c8e683a-b5b7-4a84-a7e9-72fee07051c5.png)
+
+a)
+IRL = 1mA + 2mA
+
+IRL = 3mA
+
+b)
+
+IRL = 50µA - 40µA
+
+IRL = 10µA
+
+IRL = 0.001mA
+
+c)
+
+IRL = 1A - 2.5A + 2A
+
+IRL = 0.5A
+
+IRL = 500mA
+
+32.¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/105695077/172436081-048154ec-d3ce-421e-baec-77afbb64575b.png)
+
+RT= 1/((1/1.0 + 1/2.7)) = 0.73 kΩ
+
+IT = 3A
+
+I1 = (RT/R1) IT= (0.73kΩ/1.0kΩ) (3A) = 2.19 A
+
+I2 = (RT/R2) IT= (0.73kΩ/2.7kΩ) (3A) = 0.81 A
+
+34.¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/105695077/172436166-4c40b724-7ec4-4b2b-9c7a-ddc0c1b8e06f.png)
+
+RT = 1/(1/2 Ω+1/4 Ω+1/6 Ω+1/8 Ω)=0.96 Ω
+
+I1 = (0.96Ω/2Ω) x 10mA = 4.8 mA
+
+I2 = (0.96Ω/4Ω) x 10mA = 2.4 mA
+
+I3 = (0.96Ω/6Ω) x 10mA = 1.6 mA
+
+I4 = (0.96Ω/8Ω) x 10mA = 1.2 mA
+
+10mA = 4.8mA + 2.4mA + 1.6mA + 1.2mA
+
+10mA = 10mA
+
+36.(a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.
+
+VM = IM x RM
+
+VM = 1mA x 50 Ω.
+
+VM = 50 mV
+
+(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Ω).
+
+VM = IM x RM
+
+VM = 1mA x 50 Ω.
+
+VM = 50 mV
+
+ISH2 = I ES COMPLETA – Im= 99mA-1mA = 98 mA =0.098A
+
+RSH2 = VM/ISH2 = (50 mV)/0.098A = 510.20 m Ω
+
+38.Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+PT = 250 mW + 250 mW + 250 mW + 250 mW + 250 mW = 1250 mW
+
+40.Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+1 foco =75 W
+
+V = 110V
+
+I =P/V I= 75W/(110 V) I = 0.68 A = 680mA
+
+La corriente de cada foco es de 680 mA
+IT = 680 + 680 + 680 + 680 + 680 + 680
+
+IT = 4080 mA
+
+42.Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+(a) El número de resistores
+
+PT =I_T^2 × R_T
+
+PT = 〖50 mA〗^2 × 1.0 kΩ
+
+P = 2.5 W
+
+PT = nP
+
+n = (2.5 W)/(0.25 W)
+
+n = 10
+
+(b) El valor de cada resistor
+
+P = I^2 × R
+
+R = (0.25 W)/(25 µA) = 10000 Ω
+
+(c) La corriente en cada rama
+
+IT = I1+⋯+I10
+
+50 mA = 10 (I)
+
+I = 5 mA
+
+(d) El voltaje aplicado
+
+I=V×R
+
+V=50 mA ×1000 Ω=50 V
+
+44.En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/105695077/172436374-fc6b86a1-feb2-4a4d-9dcc-9d3eaecd2dcd.png)
+
+Si, la resistencia R5 está abierta, ya que en la figura se puede ver que se ha perdido conexión con el circuito, y esto afecta al memento de medir el voltaje, puesto que este se mido en paralelo.
+
+46.¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![image](https://user-images.githubusercontent.com/105695077/172436445-3cfee289-efb4-4414-8900-d9a73aabcf8a.png)
+
+El voltaje disminuyo.
+
+48.Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+
+![image](https://user-images.githubusercontent.com/105695077/172436507-52256033-e729-4e2b-ae4e-c88162f9e02c.png)
+
+(a) 1 y 2
+
+No tiene conexión
+
+(b) 2 y 3
+
+Las resistencias que forman parte de las puntas son: R5, R6, R7, R8, R9, R10
+
+(c) 3 y 4
+
+No tiene conexión
+
+(d) 1 y 4
+
+R2
+
 # VIDEO:
 
 # CONCLUSIONES:
