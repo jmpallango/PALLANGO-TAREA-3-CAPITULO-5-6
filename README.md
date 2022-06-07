@@ -70,7 +70,7 @@ Capitulo 6:
 # CONCLUSIONES:
 . Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
 
-. Tanto la energia como la potencia nos ayuda a entender las caracteristicas que maneja las corrientes y como estos pueden ser aprovechados, conociendo las diferentes formas de leer estos datos y como calcularlos.
+. Tanto las leyes como los circuitos nos ayuda a entender las caracteristicas que maneja las corrientes y como estos pueden ser aprovechados, conociendo las diferentes formas de leer estos datos y como calcularlos.
 
 # BIBLIOGRAFÍA:
 
