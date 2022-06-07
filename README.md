@@ -182,6 +182,7 @@ R2 = 0.714 kΩ
 
 
 
+
 # VIDEO:
 
 # CONCLUSIONES:
