@@ -786,6 +786,8 @@ R2
 
 # VIDEO:
 
+https://youtu.be/ow9INkR5NIw
+
 # CONCLUSIONES:
 . Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
 
