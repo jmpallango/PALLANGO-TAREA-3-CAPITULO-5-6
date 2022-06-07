@@ -63,8 +63,15 @@ Capitulo 6:
 ![image](https://user-images.githubusercontent.com/105695077/172325905-28aeabcd-64ab-4d7d-85a5-46aadaf71d4d.png)
 ![image](https://user-images.githubusercontent.com/105695077/172325988-48a54244-9667-4354-9b4f-220bae32927b.png)
 
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
+# VIDEO:
 
+# CONCLUSIONES:
+. Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
 
+. Tanto la energia como la potencia nos ayuda a entender las caracteristicas que maneja las corrientes y como estos pueden ser aprovechados, conociendo las diferentes formas de leer estos datos y como calcularlos.
 
+# BIBLIOGRAFÍA:
 
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
