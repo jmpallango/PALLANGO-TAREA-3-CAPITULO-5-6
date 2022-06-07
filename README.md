@@ -123,6 +123,64 @@ c)	RT= 1M Ω + 650K Ω + 5.6M Ω + 680 k Ω + 10m Ω= 17.84 MΩ
 
 RT= 6(56Ω) + 8(100 Ω) + 2(22 Ω) = 336 Ω + 800 Ω + 44 Ω =1180 Ω
 
+16)Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+Utilizaría dos resistencias de 5.6 kΩ, dos resistencias de 2.2 kΩ, una resistencia de 0.68 kΩ, una resistencia de 0.56 kΩ, una resistencia de 1.0 kΩ, seis resistencias de 0.01 kΩ.
+
+18) En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/105695077/172430269-2e8ea169-8e29-4cfe-9509-c05899c3f7c0.png)
+
+RT = R1 + R3 + R5 = 510 Ω + 820 Ω + 680 Ω = 2010 Ω
+
+20) Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+
+![image](https://user-images.githubusercontent.com/105695077/172430434-a73bb23a-accb-4645-b21c-cf7fbc86e0b7.png)
+
+(a) Se necesita conocer primero la corriente que pasa por el cicuito, I = V/R = 5.5 V/(2.2 kΩ+5.6 kΩ+1.0 kΩ) = 0.625 mA
+
+R1: V = I x R = 0.625 mA x 2.2 kΩ = 1.38 V
+
+R2: V = I x R = 0.625 mA x 5.6 kΩ = 3.5 V
+
+R3: V = I x R = 0.625 mA x 1.0 kΩ = 0.63 V
+
+(b) Se necesita conocer primero la corriente que pasa por el cicuito, I = V/R = 16 V/(1.0 MΩ+2.2 MΩ+560 kΩ) = 16 V/(1000 kΩ+2200 kΩ+560 kΩ) = 4.25x10^(-3) mA
+
+R1: V = I x R = 4.25x10^(-3) mA x 1000 kΩ = 4.25 V
+
+R2: V = I x R = 4.25x10^(-3) mA x 2200 kΩ = 9.35 V
+
+R3: V = I x R = 4.25x10^(-3) mA x 560 kΩ = 2.38 V
+
+22) Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+
+R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
+
+24.Determine VR1, R2 y R3 en la figura 5-76.
+
+![image](https://user-images.githubusercontent.com/105695077/172430968-6e40f99d-f832-4b36-b9d5-98d219a35a5b.png)
+
+Calculamos el valor de R3.
+R3 = v/I = 2.21 V/12.3 mA = 0.18 kΩ
+
+Encontrar el voltaje de R1.
+V = I x R = (12.3 mA) x (82 Ω) = 1.01 V
+
+Con los voltajes obtendremos R2.
+12 V = VR1 + VR2 + VR3
+
+12 V = I x R1 + I x R2 + I x R3
+
+12 V = I(R1 + R2 + R3)
+
+12 V = 12.3 mA(82 Ω + R2 + 0.18 kΩ) = 12.3 mA(0.082 kΩ + R2 + 0.18 kΩ)
+
+R2 = 0.714 kΩ
+
+26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+
+
 
 # VIDEO:
 
