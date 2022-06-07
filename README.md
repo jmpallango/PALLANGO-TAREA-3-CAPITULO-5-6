@@ -162,12 +162,15 @@ R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
 ![image](https://user-images.githubusercontent.com/105695077/172430968-6e40f99d-f832-4b36-b9d5-98d219a35a5b.png)
 
 Calculamos el valor de R3.
+
 R3 = v/I = 2.21 V/12.3 mA = 0.18 kΩ
 
 Encontrar el voltaje de R1.
+
 V = I x R = (12.3 mA) x (82 Ω) = 1.01 V
 
 Con los voltajes obtendremos R2.
+
 12 V = VR1 + VR2 + VR3
 
 12 V = I x R1 + I x R2 + I x R3
@@ -180,8 +183,213 @@ R2 = 0.714 kΩ
 
 26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
+![image](https://user-images.githubusercontent.com/105695077/172431336-570a026f-68de-493d-925c-3333d60fd029.png)
 
+Sacar la resistencia equivalente de todo el circuito.
 
+Req = 1.0 kΩ + 33 kΩ + 68 kΩ + 27 kΩ + 22 kΩ = 151 kΩ
+
+Aplicando la Ley de Ohm encontramos la corriente.
+
+I = v/R = 9 V/151 kΩ = 0.059 mA
+
+28.El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+VT = 12 v - 3 v = 9 V
+
+30.Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+V = 5.5 V + 8.2 V + 12.3 V = 26 v
+
+32.Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![image](https://user-images.githubusercontent.com/105695077/172431625-254f8366-38cf-4f92-8ea6-41f0b40f3ab6.png)
+
+a)Las caídas de voltaje son las que están en las resistencias: 2V, V2, 1V, 3.2V, 1V, 1.5V, 0.5V.
+
+15V - 0.5V – 1.5V – 1V – 3.2V – V2 - 2V = 0
+
+6.8V – V2 = 0
+
+V2 = 6.8V
+
+b)Las caídas de voltaje son las que están en las resistencias: 8V, VR1, VR2, VR3, VR4.
+
+Vs – 8V – VR1 – VR2 – VR3 – VR4 = 0
+
+8V = Vs – VR1 – VR2 – VR3 – VR4
+
+Las caídas de voltaje en los dos circuitos son las que tienen un paso de corriente contrario a la mayoría de fuentes.Para medir las caídas de voltaje se debe conectar en paralelo a las resistencias.
+
+34.Encuentre R1, R2 y R3 en la figura 5-82.
+
+![image](https://user-images.githubusercontent.com/105695077/172431859-7965149e-fcbe-49c8-9d54-c9d88e86760f.png)
+
+Calcular el valor de R3.
+
+R3 = V/I = 9 V/10 mA = 0.9 kΩ
+
+Calcular el valor de R2.
+
+R2 = P/I^2 = 22 mW/(100 mA)^2 = 2.2X10^(-3) Ω
+
+Calcular el valor de R1.
+
+R1 = V/I = 5.6 V/10 mA = 0.56 kΩ
+
+36.Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/105695077/172431977-7a3de522-004b-40f8-bd03-2886edcee32c.png)
+
+RT = 18V / 0.01A RT = 800
+
+V1 = 0.01A × 1800Ω V1 = 18V
+
+V2 = 0.01A × 1000Ω V2 = 10V
+
+V3 = 0.01A × 820Ω V3 = 8.2V
+
+V4 = 0.01A × 560Ω V4 = 5.6V
+
+18V – 18V – 10V – 8.2V – 5.6V – VR3 = 0
+
+-23.8V – VR3 = 0
+
+VR3 = -23.8V
+
+38.Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![image](https://user-images.githubusercontent.com/105695077/172432332-895b8bf2-58ab-4130-91a4-dd1b28fcaf56.png)
+
+(a) Vx = (Rx/RT)Vs
+
+Vx = (56 Ω/156 Ω)12 V
+
+Vx = 4.31 V
+
+(b) Vx = (Rx/RT)Vs
+
+Vx = (5.5 kΩ/6.5 kΩ)8 V
+
+Vx = 6.77 V
+
+40.Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b)
+
+![image](https://user-images.githubusercontent.com/105695077/172432569-11981590-170e-4c0d-abc7-241ff284088b.png)
+
+RT = 470Ω + 1000Ω + 680Ω = 2150Ω
+
+V1 = (470Ω / 2150Ω) × 12V = 2.62V → Voltaje min.
+
+V2 = (1000Ω / 2150Ω) × 12V = 5.58V → Voltaje máx.
+
+V3 = (680Ω / 2150Ω) × 12V = 3.8V
+
+42.En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+
+![image](https://user-images.githubusercontent.com/105695077/172432741-d05eb9cf-e2a9-48df-8985-017f497b4a38.png)
+
+Vx = (Rx/RT)Vs
+
+Vx = (5.6 kΩ/108.6 kΩ)100 V
+
+Vx = 5.16 V
+
+44.Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
+
+El diseño del circuito que cumple con las características dadas es el siguiente:
+
+![image](https://user-images.githubusercontent.com/105695077/172432951-69e952b0-d3ce-46fd-bf34-a1bf6c6cd43d.png)
+
+46.Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
+PT = 50 mW + 50 mW + 50 mW + 50 mW + 50 mW = 250 mW
+
+48.Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ.¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+RT = 1.2kΩ + 2.2kΩ + 3.9kΩ + 5.6kΩ = 12.9kΩ = 12900Ω
+
+I = 12V / 12900Ω = 0.93mA
+
+P1 = (0.93mA)^2 (1.2kΩ) = 1.03 mW
+
+P2 = (0.93mA)^2 (2.2kΩ) = 1.9 mW
+
+P3 = (0.93mA)^2 (3.9kΩ) = 3.37 mW
+
+P4 = (0.93mA)^2 (5.6kΩ) = 4.84 mW
+
+La capacidad de los resistores de 3.9kΩ y 5.6kΩ no son suficientes para manejar la potencia existente.
+
+50.Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
+
+(a) I
+
+(b) VT
+
+(c) El valor de cada resistor
+
+PT = 1/8W + 1/4W + 1/2W = 7/8W = 0.875W
+
+I = √(PT/RT) = √(0.875W/2400Ω) = 19.1mA
+
+VT = I × R = 19.1mA × 2.4kΩ = 54.84V
+
+R1 = P1 / I^2 = 0.125W / (19.09mA)^2 = 343Ω
+
+R2 = P2 / I^2 = 0.25W / (19.09mA)^2 = 686Ω
+
+R3 = P3 / I^2 = 0.5W / (19.09mA)^2 = 1372.01Ω
+
+52.En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+
+![image](https://user-images.githubusercontent.com/105695077/172433270-38fa8ce4-09d7-4c06-b2c0-53f9892eaa4a.png)
+
+Se coloca a un lado de R2 y el otro punto se pone a tierra, luego se resta el voltaje B y A.
+
+54.Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+¿Qué está mal en el circuito?
+
+Se presume que el circuito está abierto, para comprobarlo usamos el método de división a la mitad utilizando un voltímetro siguiendo estos pasos:
+
+-Medir a través de R1 y R2 (la mitad izquierda del circuito). Una lectura de 0 V indica que ninguno de estos resistores está abierto, pero en este caso si marca una cantidad de voltaje diferente de 0V.
+
+-Ahora medimos la mitad que si marco una lectura de voltaje diferente de 0V (R1 Y R2), es decir, que medimos a R1, si marca 0V no hay resistores abiertos, y continuamos en medir la otra mitad, es decir, R2; y tratándose de este caso R2 si marca una lectura de voltaje diferente de 0V.
+
+-Al hallar esa lectura ya encontramos el resistor que está abierto.
+
+¿Qué voltaje se medirá a través de R2?
+
+El voltaje medido en R2 será el mismo de la fuente de energía principal, y en este caso la batería es de 12V y por ende la R2 medirá 12V, especialmente porque es un circuito abierto.
+
+56.¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
+![image](https://user-images.githubusercontent.com/105695077/172433429-6e3f2272-5dd2-4aa8-be5b-00aa07191e40.png)
+
+La corriente que va del circuto A a B.
+
+58.Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
+
+![image](https://user-images.githubusercontent.com/105695077/172433574-2b0f5361-f081-40a8-bc8d-2affdc22ee94.png)
+
+No presenta problemas.
+
+60.Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
+
+![image](https://user-images.githubusercontent.com/105695077/172433675-704cd01c-05de-4f15-9fbe-efb6bc45ebe0.png)
+
+(a) ¿Qué sucedió?
+
+Se dio un corto.
+
+(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
+
+Para localizar un corto, se mide el voltaje a través de cada resistor hasta que se tiene una lectura de 0 V.
+
+(c) ¿Con qué voltaje ocurrió la falla?
+
+Se debe calcular el voltaje para cada resistencia y en donde exista un voltaje mayor es donde se encontrará el corto.
 
 # VIDEO:
 
