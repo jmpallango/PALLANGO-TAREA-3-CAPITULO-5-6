@@ -39,7 +39,22 @@ Objetivo Especifico:
 
 Capitulo 5:
 
-
+![image](https://user-images.githubusercontent.com/105695077/172408754-0f65e106-989a-4891-a537-15afd5077380.png)
+![image](https://user-images.githubusercontent.com/105695077/172408883-d6163aa6-b86a-4c67-a2e0-30859fc77ce9.png)
+![image](https://user-images.githubusercontent.com/105695077/172408969-fe5e44b9-bdea-4719-952a-25bfd15c3be2.png)
+![image](https://user-images.githubusercontent.com/105695077/172409068-8244c68d-f5e9-472d-abf2-fb36c35c94bb.png)
+![image](https://user-images.githubusercontent.com/105695077/172409178-5815d939-83c4-4aa0-a128-943ba69fb1ee.png)
+![image](https://user-images.githubusercontent.com/105695077/172409234-312424c4-49ec-4705-8be8-3e6fcd9b358a.png)
+![image](https://user-images.githubusercontent.com/105695077/172409303-12a5ef89-dc60-4e6c-bad5-fafdf74e48f6.png)
+![image](https://user-images.githubusercontent.com/105695077/172409376-ca9b5f8c-f696-432e-b72e-cc778ce9ae3d.png)
+![image](https://user-images.githubusercontent.com/105695077/172409449-adefa182-1b29-4412-a1cc-3a95045735bf.png)
+![image](https://user-images.githubusercontent.com/105695077/172409505-04dfd975-c5cc-48a0-95ed-d33a7125fa95.png)
+![image](https://user-images.githubusercontent.com/105695077/172409560-f0ef4a2e-3c5c-4cb2-b516-d35a4c0adfc5.png)
+![image](https://user-images.githubusercontent.com/105695077/172409621-5add14fb-c4b6-4d57-b188-c184355c49af.png)
+![image](https://user-images.githubusercontent.com/105695077/172409703-95d6b2b4-4b04-4935-a5a5-29e891a4bcbf.png)
+![image](https://user-images.githubusercontent.com/105695077/172409785-e0af480e-0d22-4ca5-9761-b23c33fdf5e4.png)
+![image](https://user-images.githubusercontent.com/105695077/172409898-ea9310cd-2a13-4462-97c3-50c23b6e75e8.png)
+![image](https://user-images.githubusercontent.com/105695077/172409976-e562da3a-7f01-4769-937d-5656e8ef7e4b.png)
 
 Capitulo 6:
 
